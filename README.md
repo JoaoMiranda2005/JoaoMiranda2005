@@ -6,6 +6,8 @@
 - 💬 Ask me about HTML, CSS and Lua
 - 📫 How to reach me: geral.joaomiranda@gmail.com
 
+- ![](https://komarev.com/ghpvc/?username=JoaoMiranda2005&color=ff0000&style=for-the-badge&label=Visitas)
+
 <p align="center">
   <img height="auto" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoMiranda2005&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub+Stats" alt="" />
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda2005&layout=compact&theme=dark&lang_count=10" alt=""/>
@@ -21,6 +23,3 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
-## Estatisticas 📊
-
-![](https://komarev.com/ghpvc/?username=JoaoMiranda2005&color=ff0000&style=for-the-badge&label=Visitas)
