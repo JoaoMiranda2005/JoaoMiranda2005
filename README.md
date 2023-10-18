@@ -6,7 +6,7 @@
 - 💬 Ask me about HTML, CSS and Lua
 - 📫 How to reach me: geral.joaomiranda@gmail.com
 
-- ![](https://komarev.com/ghpvc/?username=JoaoMiranda2005&color=ff0000&style=for-the-badge&label=Visitas)
+![](https://komarev.com/ghpvc/?username=JoaoMiranda2005&color=ff0000&style=for-the-badge&label=Visitas)
 
 <p align="center">
   <img height="auto" width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoMiranda2005&show_icons=true&theme=dark&bg_color=00000000&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub+Stats" alt="" />
