@@ -21,3 +21,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
+## Estatisticas 📊
+
+![](https://komarev.com/ghpvc/?username=JoaoMiranda2005&color=ff0000&style=for-the-badge&label=Visitas)
