@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaomiranda2005" alt="joaomiranda2005" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr being a freelance Web Developer](https://www.fiverr.com/users/joomiranda872)
+- 🔭 I’m currently creating apps
 
-- 🌱 I’m currently learning **Laravel and python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoaoMiranda2005](https://github.com/JoaoMiranda2005)
 
